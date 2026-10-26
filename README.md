@@ -2,6 +2,8 @@
 
 > ## 🏆 1st Place Overall · 🥇 1st Place, SerpApi Track
 > **HackTX 2026**, the largest student-run hackathon in Texas (UT Austin, October 24–25, 2026)
+>
+> 📝 **[See our Devpost submission](https://devpost.com/software/hack-em-horns)** · 🎮 **[Play at DanceFantasy.tech](https://dancefantasy.tech)**
 
 **Bring any song to the enchanted ball.** Dance Fantasy listens to a song you choose, choreographs
 a dance routine for it that has never existed before, and teaches it to you with a 3D storybook
