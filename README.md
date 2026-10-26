@@ -1,11 +1,14 @@
 # Dance Fantasy
 
+> ## 🏆 1st Place Overall · 🥇 1st Place, SerpApi Track
+> **HackTX 2026**, the largest student-run hackathon in Texas (UT Austin, October 24–25, 2026)
+
 **Bring any song to the enchanted ball.** Dance Fantasy listens to a song you choose, choreographs
 a dance routine for it that has never existed before, and teaches it to you with a 3D storybook
 dancer while your webcam scores every beat. Dance alone, with friends in front of one laptop, or
 in an online ballroom with friends on their own phones.
 
-**Play at [DanceFantasy.tech](https://dancefantasy.tech)** (also at [midnight-ball.vercel.app](https://midnight-ball.vercel.app)) · HackTX 2026 · *Once upon a time…*
+**Play at [DanceFantasy.tech](https://dancefantasy.tech)** (also at [midnight-ball.vercel.app](https://midnight-ball.vercel.app)) · *Once upon a time…*
 
 ### 🏆 Sponsor tracks at a glance
 
